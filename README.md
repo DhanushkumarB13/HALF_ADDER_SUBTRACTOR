@@ -1,8 +1,8 @@
 ### NAME: B. DHANUSH KUMAR
 ### REG NO: 24900615
-# EXP 3 - Implementation-of-Half-Adder-and-Half Subtractor-circuit
+# EXP 3 - Implementation of Half Adder and Half Subtractor circuit
 
-# HALF ADDER SUBTRACTOR
+
 
 
 # AIM:
